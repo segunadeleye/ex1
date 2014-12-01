@@ -8,4 +8,5 @@ p, h1 {
 
 .class {
 	margin: 10px;
+	position: relative;
 }
