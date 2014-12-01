@@ -5,3 +5,7 @@ body {
 p, h1 {
   padding-left: 3px;
 }
+
+.class {
+	margin: 10px;
+}
