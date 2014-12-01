@@ -29,3 +29,12 @@
    git log --stat
    git log --oneline
    git log -p -2/-1/-3
+
+10. git show <commit-hash>
+    git show 5f5af36
+    git show fb334e1
+    git show 79160da
+
+11. git branch feature1
+    git branch feature2
+    git branch -d feature2
