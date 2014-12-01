@@ -49,5 +49,17 @@
     git branch -v
     git branch -a
 
+15. git checkout -b feature2
+    git commit -am "..."
+
+16. git checkout -b master
+    git commit -am "..."
+
 17. git checkout feature2
     git rebase -i master
+
+18. git stash
+    git stash list
+    git stash apply
+    git stash drop
+    
