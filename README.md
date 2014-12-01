@@ -20,3 +20,12 @@
 
 6. git reset HEAD index.html
    git reset HEAD README.md
+
+7. git reset HEAD^
+
+8. git status
+
+9. git log
+   git log --stat
+   git log --oneline
+   git log -p -2/-1/-3
