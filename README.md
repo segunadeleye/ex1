@@ -30,6 +30,19 @@
    git log --oneline
    git log -p -2/-1/-3
 
+10. git show <commit-hash>
+    git show 5f5af36
+    git show fb334e1
+    git show 79160da
+
+11. git branch feature1
+    git branch feature2
+    git branch -d feature2
+
+12. git commit -am "added number 14 from the master branch"
+
+13. git commit -am "added number 11 from the master branch"
+
 14. git checkout feature1
     git checkout master
     git branch
