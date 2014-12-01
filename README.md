@@ -29,3 +29,9 @@
    git log --stat
    git log --oneline
    git log -p -2/-1/-3
+
+14. git checkout feature1
+    git checkout master
+    git branch
+    git branch -v
+    git branch -a
