@@ -48,3 +48,6 @@
     git branch
     git branch -v
     git branch -a
+
+17. git checkout feature2
+    git rebase -i master
