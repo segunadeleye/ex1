@@ -1,3 +1,4 @@
+
 1. touch README.md
 
    git init
@@ -29,8 +30,6 @@
    git checkout script.js
 
 6. git reset HEAD index.html
-
-   git reset HEAD README.md 
 
 7. git reset HEAD^
 
